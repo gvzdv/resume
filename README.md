@@ -31,7 +31,7 @@ AI/ML Engineer experienced in designing, building, scaling, and integrating ML-b
 - Designed and prototyped a solution providing immediate feedback during video meetings using real-time LLM inference.
 - Implemented a recommendation system aimed at tracking and improving key metrics for meeting leaders.
 
-### Applied AI Engineer, Baby Pigeon Studio
+### Applied AI Engineer, [Baby Pigeon Studio](https://babypigeon.dev/)
 **January 2023 – January 2025** / Vancouver, British Columbia, Canada (hybrid)
 
 - Developed an LLM-based tool automating document handling and cutting processing time by 90-95% for Aplicar.
